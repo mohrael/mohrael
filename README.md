@@ -2,7 +2,7 @@
 ---
 
 ## 🛠️ Skills
-Dart • Flutter • C# • C++ • Python • Git • Java • JavaScript • HTML5 • CSS3
+C++ • Flutter • Python • Java • JavaScript • HTML • CSS • Django • Problem Solving
 ---
 
 ## 🌐 Socials
