@@ -16,4 +16,4 @@ C++ • Flutter • Python • Java • JavaScript • HTML • CSS • Django �
   Python game using Minimax and Alpha-Beta pruning.
 
 - [💡 Andoid App Development](https://github.com//mohrael/Mobile-Apps)  
-  Collection of algorithm implementations in C++.
+  A cross-platform mobile app built with Flutter and Dart.
