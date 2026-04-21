@@ -4,7 +4,7 @@
 ✉️ Contact: mohrealrafet@gmail.com
 
 ## 🛠️ Skills
-PHP • Laravel • Flutter • Python • Django • JavaScript • HTML • CSS • Java • Problem Solving 
+Python • Django • Rest APIs • Flutter • React • JavaScript • HTML • CSS • Problem Solving 
 ---
 
 ## 🌐 Socials
