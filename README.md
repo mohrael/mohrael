@@ -34,9 +34,18 @@ Git • GitHub • System Design • OOP • Authentication • Algorithms • P
 
 Backend-driven route optimization platform using the A* search algorithm with Django REST Framework and React + Leaflet integration for real-time visualization.
 
-🔗 https://github.com/mohrael
+🔗 [https://github.com/mohrael](https://github.com/mohrael/Smart-Route-Optimization-System)
 
 ---
+
+### 🚗 Notification System
+
+Developed real-time backend system using Firebase Realtime Database for instant updates. Integrated web dashboard and mobile app for synchronized notifications.
+
+🔗 https://github.com/mohrael/Notification_System
+
+---
+
 
 ### 🍽️ Wasfa Platform
 
